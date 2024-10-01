@@ -1,11 +1,11 @@
 # config
 
 ```sh
-git config --global user.name "Nick Georgi"
+git config --global user.name "your name"
 ```
 
 ```sh
-git config --global user.email "Nick.Georgi@telekom.de"
+git config --global user.email "your.mail"
 ```
 
 show config
