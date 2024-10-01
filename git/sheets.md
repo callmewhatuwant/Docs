@@ -22,7 +22,7 @@ git config user.email
 clone or connect
 
 ```sh
-git clone https://git.t-systems-mms.com/scm/~ncgo/test.git
+git clone https://...
 ```
 
 add new files
@@ -52,7 +52,7 @@ cd existing-project
 git init
 git add --all
 git commit -m "Initial Commit"
-git remote add origin https://git.t-systems-mms.com/scm/~ncgo/test.git
+git remote add origin https://
 git push -u origin HEAD:main
 ```
 
